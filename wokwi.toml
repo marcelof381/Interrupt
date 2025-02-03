@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'build/interrupt.uf2'
+elf = 'build/interrupt.elf'
+gdbServerPort=3333
